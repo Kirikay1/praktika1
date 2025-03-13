@@ -50,6 +50,8 @@ namespace ConsoleApp1
                 Console.WriteLine();
 
             }
+
+            int a = 5;
         }
     }
 }
